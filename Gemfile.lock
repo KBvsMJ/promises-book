@@ -10,6 +10,3 @@ PLATFORMS
 DEPENDENCIES
   asciidoctor
   coderay
-
-BUNDLED WITH
-   1.13.6
